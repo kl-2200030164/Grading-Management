@@ -1,2 +1,2 @@
 # Grading-Management
-https://github.com/Mazbaul/Online-Learning-And-Course-Management-System
+https://github.com/uts58/Student-Grade-Management-System
